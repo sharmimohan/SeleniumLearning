@@ -28,10 +28,12 @@ public class SumOfDigits {
 		} 
 
 		System.out.println("The sum of digits is "+sumOfDigits);
+		System.out.println("true");
 		scan.close();
 
 	}
 
+	
 
 }
 
